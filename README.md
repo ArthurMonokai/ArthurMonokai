@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
+<h1 align="center">Hi, I'm Arthur</h1>
 <h3 align="center">A developer from Brazil</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@arthurmonokai](https://medium.com/@arthurmonokai)
